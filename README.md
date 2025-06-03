@@ -8,3 +8,7 @@ GitHub Actions is configured to automatically:
 
 - Build the project
 - Run all tests on push and pull request to the main branch
+
+Notes:
+
+- Headless Chrome mode ensures the tests can run on CI servers without GUI.
